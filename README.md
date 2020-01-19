@@ -7,12 +7,9 @@ Shadow mapping in 3D using GLUT and C done as an assignment for a class.
 * Multiple fog implementations
 
 ## Screenshots
-Main
-![main](http://url/to/img.png)
+![main](https://github.com/coaalst/shadow-map/blob/master/images/main.png)
 
-Menu
-![menu](http://url/to/img.png)
+![menu](https://github.com/coaalst/shadow-map/blob/master/images/menu.png)
 
-Fog
-![fog](http://url/to/img.png)
+![fog](https://github.com/coaalst/shadow-map/blob/master/images/fog.png)
 
